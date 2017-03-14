@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "authors": [
+    "Thomas Dittmar <dittmarconsulting@gmail.com>"
+  ],
+  "description": "react-app",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
